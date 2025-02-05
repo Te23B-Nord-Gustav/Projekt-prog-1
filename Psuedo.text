@@ -1,0 +1,14 @@
+"ajde latch vi löser detta enkelt"
+
+IDE.
+ Istälelt för att actually göra en spel eller ngt vi gör et program som har en massa klasser i sig.
+ Där menyn är basically vår checklist av betygs kriterier och du kan anropa dem olika för att köra dem.
+ istället för att göra ett stort samman kopplat projekt
+
+Psuedo koden.
+ inuti en loop så Koden printar ut en list där alla alternativen ingår
+ sedan tar programmet en input för att anroppa det alternativet som valts.
+
+ kör det programmet sedan går den tillbaka till menyn så man kan kolla dem andra.
+
+
